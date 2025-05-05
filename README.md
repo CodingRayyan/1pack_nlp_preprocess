@@ -1,1 +1,3 @@
-# 1pack_nlp_preprocess
+# nlp_preprocess
+
+A basic NLP preprocessor that removes stopwords and performs stemming or lemmatization using NLTK.
